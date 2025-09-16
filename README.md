@@ -14,3 +14,6 @@ Nicko Sugiarto_362458302119_TRPL2D
 3. Emulator Android/IOS.
 
 ## Implementasi Kode Flutter
+
+## Struktur Proyek
+
