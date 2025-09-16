@@ -7,12 +7,12 @@ Nicko Sugiarto_362458302119_TRPL2D
 3. Mengimplementasikan navigasi antar halama menggunakan Navigator.
 4. mengelola state sederhana dan menyimpan data input pengguna secara sementara di dalam variabel.
 5. memahami dasar-dasar event handling, seperti apa yang terjadi ketika sebuah tombol ditekan.
-
+---
 ## 1.1 Alat yang dibutuhkan
 1. Flutter SDK.
 2. Android Studio atau VS Code.
 3. Emulator Android/IOS.
-
+---
 ## 2 Desain Konsep dan Layout
 ### 2.1 Wireframe halaman login
 ### 2.2 Wireframe halaman register
