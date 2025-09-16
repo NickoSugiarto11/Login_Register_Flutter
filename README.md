@@ -16,8 +16,7 @@ Nicko Sugiarto_362458302119_TRPL2D
 ## 2 Desain Konsep dan Layout
 ### 2.1 Wireframe halaman login
 ### 2.2 Wireframe halaman register
-
-
+---
 ## 3 Implementasi Kode Flutter
 ## 3.1 Struktur Proyek
 
