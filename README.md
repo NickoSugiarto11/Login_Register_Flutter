@@ -1,16 +1,19 @@
-# login_register_flutter
+# Login_Register_Flutter
 
-A new Flutter project.
+Nicko Sugiarto_362458302119_TRPL2D
+## Tujuan Pembelajaran
+1. Merancang dan membuat layout antarmuka (UI) untuk halaman Login dan Registrasi.
+2. Menggunakan berbagai macam widget dasar Flutter seperti Scaffold, Container, Column, TextField, dan ElevateButton.
+3. Mengimplementasikan navigasi antar halama menggunakan Navigator.
+4. mengelola state sederhana dan menyimpan data input pengguna secara sementara di dalam variabel.
+5. memahami dasar-dasar event handling, seperti apa yang terjadi ketika sebuah tombol ditekan.
 
-## Getting Started
+## Alat yang dibutuhkan
+1. Flutter SDK.
+2. Android Studio atau VS Code.
+3. Emulator Android/IOS.
 
-This project is a starting point for a Flutter application.
+## Implementasi Kode Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## Struktur Proyek
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
