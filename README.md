@@ -2,15 +2,7 @@
 
 Nicko Sugiarto_362458302119
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Tujuan Pembelajaran
+1. Merancang dan membuat layout antarmuka (UI) untuk halaman Login dan Registrasi.
+2. Menggunakan berbagai macam widget dasar Flutter seperti ##Scaffold, Container, Column, TextField, dan ElevateButton.
+3. Mengimplementasikan navigasi antar halama menggunakan Navigator
