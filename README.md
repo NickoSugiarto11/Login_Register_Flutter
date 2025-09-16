@@ -46,3 +46,21 @@ Nicko Sugiarto_362458302119_TRPL2D
 ### Halaman utama setelah user login.
 
 <img width="849" height="459" alt="image" src="https://github.com/user-attachments/assets/ed267da3-1b56-412e-86d0-b8dfcca3733b" />
+
+---
+## 4 Dokumentasi
+## 4.1 Tampilan Registrasi.
+
+<img width="2559" height="1522" alt="Screenshot 2025-09-16 184920" src="https://github.com/user-attachments/assets/cb69d5f8-bbb5-4b67-b6d8-775aae9eb591" />
+
+## 4.2 Tampilan setelah Registrasi.
+
+<img width="2559" height="1517" alt="Screenshot 2025-09-16 185202" src="https://github.com/user-attachments/assets/6817ef76-8383-478c-93c6-976b081fd3ee" />
+
+## 4.3 Tampilan Login.
+
+<img width="2559" height="1526" alt="Screenshot 2025-09-16 184938" src="https://github.com/user-attachments/assets/4b28920e-6f8e-43cb-b66a-9d47bfb7b27a" />
+
+## 4.4 Tampilan Home setelah Login.
+
+<img width="2559" height="1519" alt="Screenshot 2025-09-16 185258" src="https://github.com/user-attachments/assets/3a24c0a5-e703-4d9b-bd4c-dc888d78d5c0" />
