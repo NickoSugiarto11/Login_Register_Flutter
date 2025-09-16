@@ -1,6 +1,6 @@
-# login_register_flutter
+# Login_Register_Flutter
 
-A new Flutter project.
+Nicko Sugiarto_362458302119
 
 ## Getting Started
 
