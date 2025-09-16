@@ -64,3 +64,10 @@ Nicko Sugiarto_362458302119_TRPL2D
 ## 4.4 Tampilan Home setelah Login.
 
 <img width="2559" height="1519" alt="Screenshot 2025-09-16 185258" src="https://github.com/user-attachments/assets/3a24c0a5-e703-4d9b-bd4c-dc888d78d5c0" />
+
+## 5 Kesimpulan
+1. Membangun UI dengan widget dasar dan dekorasi untuk memperindah tampilan.
+2. Menggunakan TextEditingController untuk mengelola input dari pengguna.
+3. Menavigasi antar halaman menggunakan Navigator.push, Navigator.pop, dan Navigator.pushReplacement.
+4. Mengirim data antar halaman melalui consttructor.
+5. Menyimpan data secara sementara dalam variabel global (Map).
